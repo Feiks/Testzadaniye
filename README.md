@@ -1,4 +1,4 @@
-import { StatusBar } from 'expo-status-bar';
+```import { StatusBar } from 'expo-status-bar';
 import React,  {useEffect, useState } from 'react';
 import {ActivityIndicator, StyleSheet, Text, View , FlatList,useWindowDimensions, Image,Platform, SafeAreaView} from 'react-native';
 import HTML from "react-native-render-html";
@@ -97,4 +97,5 @@ const styles = StyleSheet.create({
     color: '#34495e',
   },
 });
+```
 
